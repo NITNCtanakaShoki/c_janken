@@ -61,7 +61,8 @@ char* winner(int playerHand, int computerHand)
 
 
 
-int main(void) {
+int main(void)
+{
     srandomdev();
 
     for (;;) {
